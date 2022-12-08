@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brady9999
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in Cyber Security and Game design
+- 🌱 I’m currently learning HTML, CSS and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
