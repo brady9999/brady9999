@@ -1,2 +1,2 @@
 Hello, My name is Brady Genik
-  These are my Projects that ive been working on recently
+  These are my Projects that i've been working on recently
