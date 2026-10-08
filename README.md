@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://argusops.ca"><img src="https://img.shields.io/badge/argusops.ca-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00e0b0" /></a>
-  <a href="https://gennertech.ca"><img src="https://img.shields.io/badge/gennertech.ca-0d1117?style=for-the-badge&logo=googlechrome&logoColor=1f6feb" /></a>
-  <img src="https://img.shields.io/badge/Winnipeg,_MB-0d1117?style=for-the-badge&logo=googlemaps&logoColor=ff5555" />
+  <a href="www.linkedin.com/in/bradygenik"><img src="https://img.shields.io/badge/Linkedin-0d1117?style=for-the-badge&logo=Linkedin&logoColor=00e0b0" /></a>
+  <a href="https://bradygenik.com"><img src="https://img.shields.io/badge/bradygenik.com-0d1117?style=for-the-badge&logo=&logoColor=1f6feb" /></a>
+  <img src="https://img.shields.io/badge/Winnipeg,_MB-0d1117?style=for-the-badge&logo=&logoColor=ff5555" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ background:
   - Infrastructure internship @ City of Winnipeg
   - Hands-on Cisco SD-Access deployment
   - Runs a Proxmox homelab with real Cisco gear on the rack
-philosophy: "If I tell me I can't do it... I already did."
+philosophy: "If you tell me I can't do it... I already did."
 ```
 
 ---
