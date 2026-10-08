@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/bradygenik"><img src="https://img.shields.io/badge/Linkedin-0d1117?style=for-the-badge&logo=Linkedin&logoColor=00e0b0" /></a>
+  <a href="https://www.linkedin.com/in/bradygenik"><img src="https://img.shields.io/badge/Linkedin-0d1117?style=for-the-badge&logo=Linkedin&logoColor=00e0b0" /></a>
   <a href="https://bradygenik.com"><img src="https://img.shields.io/badge/bradygenik.com-0d1117?style=for-the-badge&logo=&logoColor=1f6feb" /></a>
   <img src="https://img.shields.io/badge/Winnipeg,_MB-0d1117?style=for-the-badge&logo=&logoColor=ff5555" />
 </p>
