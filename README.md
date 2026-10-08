@@ -25,7 +25,7 @@ building:  Everything
 education: IT Diploma — MITT
 background:
   - Infrastructure internship @ City of Winnipeg
-  - Hands-on Cisco SD-Access deployment
+  - Hands-on data center experience
   - Runs a Proxmox homelab with real Cisco gear on the rack
 philosophy: "If you tell me I can't do it... I already did."
 ```
